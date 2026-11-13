@@ -1,12 +1,17 @@
-<table width="100%" bgcolor="#ffffff" style="background-color: #ffffff; border-radius: 8px;">
+
+<table width="100%" bgcolor="#ffffff">
 <tr>
-<td align="center" bgcolor="#ffffff" style="background-color: #ffffff; padding: 30px;">
+<td align="center" bgcolor="#ffffff">
 
-<img src="src/logo.png" width="115" alt="Campus Safety App Logo"/>
+<br/>
 
-<h1 style="color:#111827; margin-top: 15px;">CAMPUS SAFETY & GBV PREVENTION SYSTEM</h1>
+<img src="scr/logo.png" width="115" alt="Campus Safety App Logo"/>
 
-<p style="color:#374151; font-size: 16px;">
+<h1 style="color:#111827;">CAMPUS SAFETY</h1>
+
+<h2 style="color:#111827;">& GBV PREVENTION SYSTEM</h2>
+
+<p style="color:#374151;">
 <strong>Building safer campuses through technology, accountability and coordinated emergency response.</strong>
 </p>
 
@@ -20,6 +25,8 @@
 <p style="color:#374151;">
 <strong>A technology-driven approach to safer educational institutions.</strong>
 </p>
+
+<br/>
 
 </td>
 </tr>
@@ -49,15 +56,15 @@ The mobile application is designed for both **Android and Apple devices**, provi
 
 #### Student Pass
 
-<img src="src/passcreen.png" width="250" alt="Student Pass Screen"/>
+<img src="scr/passcreen.png" width="250" alt="Student Pass Screen"/>
 
 #### Student Profile
 
-<img src="src/profilescreen.png" width="250" alt="Student Profile Screen"/>
+<img src="scr/profilescreen.png" width="250" alt="Student Profile Screen"/>
 
 #### Application Settings
 
-<img src="src/settingscreen.png" width="250" alt="Application Settings Screen"/>
+<img src="scr/settingscreen.png" width="250" alt="Application Settings Screen"/>
 
 </div>
 
@@ -154,4 +161,105 @@ The solution consists of three interconnected components:
           +-----+-----+
           |           |
           v           v
-        DATABASE   ADMIN DASHBOARD
+       DATABASE   ADMIN DASHBOARD
+```
+
+---
+
+## Project Objectives
+
+The project aims to:
+
+1. Strengthen campus access control and student identification.
+2. Improve the accuracy and accessibility of attendance records.
+3. Provide accessible safety-reporting channels for students.
+4. Improve coordination between students and campus security.
+5. Establish a structured emergency-response process.
+6. Support institutional GBV prevention and awareness.
+7. Improve accountability through incident records and response tracking.
+
+---
+
+## Downloads
+
+### 📱 Mobile Application
+
+The mobile application is designed for Android and Apple devices.
+
+**Android users:** Download the APK installation package below.
+
+<div align="center">
+
+[![Download APK](https://img.shields.io/badge/DOWNLOAD-ANDROID%20APK-2E9D64?style=for-the-badge&logo=android&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest)
+
+</div>
+
+*Note: The current downloadable release is for Android. An APK cannot be installed directly on Apple devices.*
+
+### 📄 Project Concept Document
+
+Access the complete project proposal covering:
+
+- Project vision and objectives.
+- System architecture.
+- Hardware and software requirements.
+- Campus access and attendance processes.
+- GBV safety and emergency-response features.
+- Privacy and security considerations.
+- Implementation roadmap.
+
+<div align="center">
+
+[![Download PDF](https://img.shields.io/badge/DOWNLOAD-PROJECT%20DOCUMENT%20PDF-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](scr/Campus_Safety_GBV_Prevention_Concept_Document.pdf)
+
+</div>
+
+---
+
+## Privacy, Safety & Responsibility
+
+Student safety and personal information are central to this project.
+
+The proposed system follows several important principles:
+
+- Personal information should only be collected when necessary.
+- Sensitive incident information must only be accessible to authorised personnel.
+- Live location should only be shared under defined safety and emergency procedures.
+- Student identities and incident details must not be exposed to the general student population.
+- The system must support appropriate privacy safeguards and institutional compliance with South Africa's Protection of Personal Information Act (POPIA).
+
+**Important:** This platform is intended to support GBV prevention, safety reporting and faster assistance. It does not guarantee the prevention of GBV and cannot replace trained campus security personnel, SAPS, professional survivor-support services or established institutional safeguarding procedures.
+
+---
+
+## Development Roadmap
+
+| Phase | Description |
+|---|---|
+| Phase 1 | Requirements gathering and technical validation |
+| Phase 2 | Gate hardware and attendance system prototype |
+| Phase 3 | Mobile safety features and security dashboard |
+| Phase 4 | Controlled institutional pilot |
+| Phase 5 | Evaluation, improvements and expansion |
+
+---
+
+## Project Status
+
+This repository presents the Campus Safety & GBV Prevention System and its proposed technical direction.
+
+The concept is intended for further technical development, institutional engagement, stakeholder consultation and controlled pilot testing.
+
+Features described as proposed are subject to implementation, validation and institutional approval.
+
+---
+
+<div align="center">
+
+# A Safer Campus Starts With Us.
+
+**CAMPUS SAFETY & GBV PREVENTION SYSTEM**
+
+Technology for protection. Innovation for safer education.
+
+</div>
