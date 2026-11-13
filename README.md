@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/hero-banner.svg" alt="Campus Safety & GBV Prevention System" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Hloni207/CAMPUS-SAFETY/main/src/hero-banner.svg?sanitize=true" alt="Campus Safety & GBV Prevention System" width="100%"/>
 </p>
 
 ---
