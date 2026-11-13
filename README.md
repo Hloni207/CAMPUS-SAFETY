@@ -1,36 +1,21 @@
 
-<table width="100%" bgcolor="#ffffff">
-<tr>
-<td align="center" bgcolor="#ffffff">
+<div align="center">
 
-<br/>
+# CAMPUS SAFETY
+### & GBV PREVENTION SYSTEM
 
-<img src="scr/logo.png" width="115" alt="Campus Safety App Logo"/>
-
-<h1 style="color:#111827;">CAMPUS SAFETY</h1>
-
-<h2 style="color:#111827;">& GBV PREVENTION SYSTEM</h2>
-
-<p style="color:#374151;">
-<strong>Building safer campuses through technology, accountability and coordinated emergency response.</strong>
-</p>
+**Building safer campuses through technology, accountability and coordinated emergency response.**
 
 <p>
-<img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Android-APK%20Available-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-GBV%20Prevention-9333EA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Development-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project-Campus%20Safety-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-GBV%20Prevention-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Development-orange?style=flat-square" />
 </p>
 
-<p style="color:#374151;">
-<strong>A technology-driven approach to safer educational institutions.</strong>
-</p>
+**A technology-driven approach to safer educational institutions.**
 
-<br/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -42,33 +27,33 @@ The system combines a student mobile application, smart campus entry terminals a
 
 Through this solution, students can securely access campus facilities, monitor their attendance records and request assistance when they feel unsafe or experience an emergency.
 
-Our vision is to create educational environments where students can access help more easily and institutions can coordinate their safety responses more effectively.
+Our vision is to create an educational environment where students can access help more easily and where institutions can coordinate their safety responses more effectively.
 
----
+## The Mobile Application
 
-## Mobile Application
+The student mobile application serves as the primary interface between students and the campus safety infrastructure.
 
-The mobile application is designed for both **Android and Apple devices**, providing students with a centralised platform for campus access, attendance monitoring and safety assistance.
+It provides students with access to their campus credentials, attendance information and emergency assistance features.
 
 ### Application Screenshots
 
+<!-- Replace these image paths with your actual screenshots -->
+
 <div align="center">
 
-#### Student Pass
+| Home Screen | Attendance |
+|:---:|:---:|
+| <img src="assets/screenshots/home-screen.png" width="220" /> | <img src="assets/screenshots/attendance-screen.png" width="220" /> |
 
-<img src="scr/passcreen.png" width="250" alt="Student Pass Screen"/>
+| Safety Centre | Emergency Assistance |
+|:---:|:---:|
+| <img src="assets/screenshots/safety-screen.png" width="220" /> | <img src="assets/screenshots/emergency-screen.png" width="220" /> |
 
-#### Student Profile
-
-<img src="scr/profilescreen.png" width="250" alt="Student Profile Screen"/>
-
-#### Application Settings
-
-<img src="scr/settingscreen.png" width="250" alt="Application Settings Screen"/>
+| Student Profile |
+|:---:|
+| <img src="assets/screenshots/profile-screen.png" width="220" /> |
 
 </div>
-
----
 
 ## Key Features
 
@@ -88,7 +73,7 @@ Students can:
 
 - View their attendance history.
 - Check entry and exit timestamps.
-- Monitor recorded campus activity.
+- Monitor their recorded campus activity.
 - Request corrections where attendance records are inaccurate.
 
 ### 3. Feeling Unsafe Alert
@@ -129,7 +114,7 @@ The proposed institutional dashboard will enable authorised personnel to:
 
 ## How the System Works
 
-The solution consists of three interconnected components:
+The solution consists of three interconnected components.
 
 | Component | Responsibility |
 |---|---|
@@ -140,28 +125,28 @@ The solution consists of three interconnected components:
 ### System Architecture
 
 ```text
-             STUDENT
-                |
-                v
-       MOBILE APPLICATION
-                |
-        +-------+-------+
-        |               |
-        v               v
-   ATTENDANCE       SAFETY ALERTS
-        |               |
-        v               v
-    GATE SYSTEM     SECURITY TEAM
-        |               |
-        +-------+-------+
-                |
-                v
-         CENTRAL BACKEND
-                |
-          +-----+-----+
-          |           |
-          v           v
-       DATABASE   ADMIN DASHBOARD
+          STUDENT
+             |
+             v
+     MOBILE APPLICATION
+             |
+       +-----+------+
+       |            |
+       v            v
+  ATTENDANCE    SAFETY ALERTS
+       |            |
+       v            v
+   GATE SYSTEM   SECURITY TEAM
+       |            |
+       +-----+------+
+             |
+             v
+     CENTRAL BACKEND
+             |
+       +-----+------+
+       |            |
+       v            v
+   DATABASE    ADMIN DASHBOARD
 ```
 
 ---
@@ -182,37 +167,27 @@ The project aims to:
 
 ## Downloads
 
-### 📱 Mobile Application
-
-The mobile application is designed for Android and Apple devices.
-
-**Android users:** Download the APK installation package below.
-
 <div align="center">
 
-[![Download APK](https://img.shields.io/badge/DOWNLOAD-ANDROID%20APK-2E9D64?style=for-the-badge&logo=android&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest)
+### Get the Application
+
+Access the student mobile application and explore the project documentation.
 
 </div>
 
-*Note: The current downloadable release is for Android. An APK cannot be installed directly on Apple devices.*
+### 📱 Android Application
+
+Download the Android application package (APK).
+
+**[Download Campus Safety APK](releases/CampusSafety.apk)**
+
+> Android installation may require permission to install applications from your browser or file manager. Only install an APK obtained from the official project repository.
 
 ### 📄 Project Concept Document
 
-Access the complete project proposal covering:
+Read the full project proposal, including the system architecture, implementation roadmap, technical requirements, privacy considerations and operational procedures.
 
-- Project vision and objectives.
-- System architecture.
-- Hardware and software requirements.
-- Campus access and attendance processes.
-- GBV safety and emergency-response features.
-- Privacy and security considerations.
-- Implementation roadmap.
-
-<div align="center">
-
-[![Download PDF](https://img.shields.io/badge/DOWNLOAD-PROJECT%20DOCUMENT%20PDF-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](scr/Campus_Safety_GBV_Prevention_Concept_Document.pdf)
-
-</div>
+**[Download Project Concept Document (PDF)](docs/Campus_Safety_GBV_Prevention_Concept_Document.pdf)**
 
 ---
 
@@ -256,9 +231,9 @@ Features described as proposed are subject to implementation, validation and ins
 
 <div align="center">
 
-# A Safer Campus Starts With Us.
+## A Safer Campus Starts With Us.
 
-**CAMPUS SAFETY & GBV PREVENTION SYSTEM**
+**Campus Safety & GBV Prevention System**
 
 Technology for protection. Innovation for safer education.
 
