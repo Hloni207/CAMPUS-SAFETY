@@ -1,0 +1,60 @@
+<svg width="900" height="390" viewBox="0 0 900 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ringGrad" x1="395" y1="35" x2="505" y2="145" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1D63ED" />
+      <stop offset="100%" stop-color="#0A369D" />
+    </linearGradient>
+  </defs>
+
+  <!-- White Card Background -->
+  <rect width="900" height="390" rx="14" fill="#FFFFFF" />
+
+  <!-- Concentric Blue Logo -->
+  <circle cx="450" cy="90" r="46" stroke="url(#ringGrad)" stroke-width="15" />
+  <circle cx="450" cy="90" r="22" stroke="url(#ringGrad)" stroke-width="13" />
+
+  <!-- Title -->
+  <text x="450" y="185" fill="#111827" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="0.5" text-anchor="middle">
+    CAMPUS SAFETY & GBV PREVENTION SYSTEM
+  </text>
+
+  <!-- Divider Line -->
+  <line x1="60" y1="206" x2="840" y2="206" stroke="#E5E7EB" stroke-width="1.5" />
+
+  <!-- Subtitle -->
+  <text x="450" y="242" fill="#374151" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">
+    Building safer campuses through technology, accountability and coordinated emergency response.
+  </text>
+
+  <!-- Badges Group (Centered) -->
+  <g transform="translate(152, 268)">
+    <!-- Badge 1: Platform -->
+    <rect x="0" y="0" width="62" height="24" fill="#555555" />
+    <rect x="62" y="0" width="90" height="24" fill="#2563EB" />
+    <text x="31" y="16" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="11" text-anchor="middle">Platform</text>
+    <text x="107" y="16" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Android | iOS</text>
+
+    <!-- Badge 2: Android -->
+    <rect x="160" y="0" width="60" height="24" fill="#555555" />
+    <rect x="220" y="0" width="98" height="24" fill="#3DDC84" />
+    <text x="190" y="16" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="11" text-anchor="middle">Android</text>
+    <text x="269" y="16" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">APK Available</text>
+
+    <!-- Badge 3: Focus -->
+    <rect x="326" y="0" width="46" height="24" fill="#555555" />
+    <rect x="372" y="0" width="104" height="24" fill="#9333EA" />
+    <text x="349" y="16" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="11" text-anchor="middle">Focus</text>
+    <text x="424" y="16" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">GBV Prevention</text>
+
+    <!-- Badge 4: Status -->
+    <rect x="484" y="0" width="48" height="24" fill="#555555" />
+    <rect x="532" y="0" width="84" height="24" fill="#F97316" />
+    <text x="508" y="16" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="11" text-anchor="middle">Status</text>
+    <text x="574" y="16" fill="#FFFFFF" font-family="Verdana, Geneva, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Development</text>
+  </g>
+
+  <!-- Bottom Tagline -->
+  <text x="450" y="342" fill="#374151" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+    A technology-driven approach to safer educational institutions.
+  </text>
+</svg>

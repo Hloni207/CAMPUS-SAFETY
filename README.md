@@ -1,23 +1,6 @@
-<div align="center">
-  <img src="src/logo.png" width="115" alt="Campus Safety App Logo"/>
-
-  <h1>CAMPUS SAFETY & GBV PREVENTION SYSTEM</h1>
-
-  <p>
-    <strong>Building safer campuses through technology, accountability and coordinated emergency response.</strong>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-2563EB?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Android-APK%20Available-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Focus-GBV%20Prevention-9333EA?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Status-Development-orange?style=flat-square"/>
-  </p>
-
-  <p>
-    <strong>A technology-driven approach to safer educational institutions.</strong>
-  </p>
-</div>
+<p align="center">
+  <img src="src/hero-banner.svg" alt="Campus Safety & GBV Prevention System" width="100%"/>
+</p>
 
 ---
 
