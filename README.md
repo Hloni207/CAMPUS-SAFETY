@@ -1,6 +1,29 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hloni207/CAMPUS-SAFETY/main/src/hero-banner.svg?sanitize=true" alt="Campus Safety & GBV Prevention System" width="100%"/>
+<table width="100%" bgcolor="#ffffff" style="background-color: #ffffff; border-radius: 8px;">
+<tr>
+<td align="center" bgcolor="#ffffff" style="background-color: #ffffff; padding: 30px;">
+
+<img src="src/logo.png" width="115" alt="Campus Safety App Logo"/>
+
+<h1 style="color:#111827; margin-top: 15px;">CAMPUS SAFETY & GBV PREVENTION SYSTEM</h1>
+
+<p style="color:#374151; font-size: 16px;">
+<strong>Building safer campuses through technology, accountability and coordinated emergency response.</strong>
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Android-APK%20Available-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-GBV%20Prevention-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Development-orange?style=flat-square"/>
+</p>
+
+<p style="color:#374151;">
+<strong>A technology-driven approach to safer educational institutions.</strong>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
